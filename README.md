@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Language</h2>
 
 ###
 
@@ -14,6 +14,14 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
