@@ -20,7 +20,7 @@
 
 <h2 align="left">Social media</h2>
 
-<div align="center">
+<div align="leftr">
   <a href="https://www.instagram.com/brndx.15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="55" alt="instagram logo" />
   </a>
