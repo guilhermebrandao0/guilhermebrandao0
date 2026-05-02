@@ -20,23 +20,25 @@
 
 <h2 align="left">Social media</h2>
 
-###
-
- <div align="center">
+<div align="center">
   <a href="https://www.instagram.com/brndx.15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="38" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="55" alt="instagram logo" />
   </a>
+
   <a href="https://www.linkedin.com/in/guilherme-brandao-94b3893b0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="38" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="55" alt="linkedin logo" />
   </a>
+
   <a href="https://youtube.com/@BrandaoDeveloper" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="38" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="55" alt="youtube logo" />
   </a>
-  <a href="[brandao.dev0@gmail.com](mailto:brandao.dev0@gmail.com)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="38" alt="gmail logo"  />
+
+  <a href="mailto:brandao.dev0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="55" alt="gmail logo" />
   </a>
+
   <a href="https://discord.gg/HrYWm3Trp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="38" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="55" alt="discord logo" />
   </a>
 </div>
 
