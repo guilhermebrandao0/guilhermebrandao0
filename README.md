@@ -21,23 +21,24 @@
 
 ###
 
-<h3 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h3>
+
+<h1 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h1>
 
 ###
 
-<p align="left">&#9749; Turning coffee into functional code.</p>
+<h3 align="left">&#9749; Turning coffee into functional code.</h3>
 
 ###
 
-<p align="left">&#127757;  I live in Brazil.</p>
+<h3 align="left">&#127757;  I live in Brazil.</h3>
 
 ###
 
-<p align="left">&#128233; Contact me @: brandao.dev0@gmail.com</p>
+<h3 align="left">&#128233; Contact me @: brandao.dev0@gmail.com</h3>
 
 ###
 
-<p align="left">&#128211; Currently studying Java</p>
+<h3 align="left">&#128211; Currently studying Java</h3>
 
 ###
 
