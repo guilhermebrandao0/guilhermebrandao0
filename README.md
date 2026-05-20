@@ -6,13 +6,13 @@
 <h1 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h1>
 
 
-<h3 align="left">&#9749; Turning coffee into functional code.</h3>
+<h2 align="left">&#9749; Turning coffee into functional code.</h3>
 
 
 <h3 align="left">&#127757;  I live in Brazil.</h3>
 
 
-<h3 align="left">&#128233; Contact me @: brandao.dev0@gmail.com</h3>
+<h3 align="left">&#128233; Contact me @: mailto:brandao.dev0@gmail.com</h3>
 
 
 <h3 align="left">&#128211; Currently studying Java</h3>
@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="55" alt="discord logo" />
   </a>
 </div>
+
+<h2 align="left">&#x1F4BB; technical skills</h2>
 
 <br>
 
