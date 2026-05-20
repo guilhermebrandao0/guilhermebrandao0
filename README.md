@@ -21,6 +21,26 @@
 
 ###
 
+<h3 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h3>
+
+###
+
+<p align="left">&#9749; Turning coffee into functional code.</p>
+
+###
+
+<p align="left">&#127757;  I live in Brazil.</p>
+
+###
+
+<p align="left">&#128233; Contact me @: brandao.dev0@gmail.com</p>
+
+###
+
+<p align="left">&#128211; Currently studying Java</p>
+
+###
+
 <h2 align="left">🌐Social media | Contact me</h2>
 
 <div align="leftr">
