@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">🌐Social media | Contact me</h2>
 
 <div align="leftr">
   <a href="https://www.instagram.com/brndx.15/" target="_blank">
