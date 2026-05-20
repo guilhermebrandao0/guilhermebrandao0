@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="bannergit.jpeg">
+</p>
+
+
+##
+
 <div align="center" style="text-align: center;">
   <a href="https://beacons.ai/guilhermebrandao0" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=FF0000&lines=Hello,+I+am+Guilherme+Brandao+🧑‍💻👋;I'm+Back-End+developer+⚙️☕;Welcome+to+my+profile!+🧑‍💻+" alt="Typing SVG">
