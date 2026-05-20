@@ -2,45 +2,22 @@
   <img src="bannergit1.jpeg">
 </p>
 
-<h2 align="left">Language</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-</div>
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-</div>
-
-###
-
 
 <h1 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h1>
 
-###
 
 <h3 align="left">&#9749; Turning coffee into functional code.</h3>
 
-###
 
 <h3 align="left">&#127757;  I live in Brazil.</h3>
 
-###
 
 <h3 align="left">&#128233; Contact me @: brandao.dev0@gmail.com</h3>
 
-###
 
 <h3 align="left">&#128211; Currently studying Java</h3>
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=3"/>
 
 <h2 align="left">🌐Social media | Contact me</h2>
 
@@ -66,9 +43,7 @@
   </a>
 </div>
 
-
-
-###
+<br>
 
 <img src="https://private-user-images.githubusercontent.com/13622306/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkzMTAwMTAsIm5iZiI6MTc3OTMwOTcxMCwicGF0aCI6Ii8xMzYyMjMwNi81MDczMzEyMjMtNTRkYzFmN2EtZjMyNy00M2FiLWFlOWMtNThjNzQyMWVlZTM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTIwVDIwNDE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlY2NiMjdmY2U5NTUxNDIyODVhN2JlMDVkNDhkMGMwMDdiOWEzY2IyNTZkOTdkMGYxYjRiNjAyNmZkMTQ0YjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.wT9Abyrh6fclFd_XJ6fxNpFUEZI22P3DLLMXz-suExw" />
 
