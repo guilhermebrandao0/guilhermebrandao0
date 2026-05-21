@@ -12,12 +12,12 @@
 <h3 align="left">&#127757;  I live in Brazil.</h3>
 
 
-<h3 align="left">&#128233; Contact me @: mailto:brandao.dev0@gmail.com</h3>
+<h3 align="left">&#128233; Contact me @: <a href="mailto:brandao.dev0@gmail.com" target="_blank">brandao.dev0@gmail.com</h3>
 
 
 <h3 align="left">&#128211; Currently studying Java</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 <h2 align="left">🌐Social media | Contact me</h2>
 
@@ -44,6 +44,10 @@
 </div>
 
 <h2 align="left">&#x1F4BB; technical skills</h2>
+
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+
+###
 
 <br>
 
