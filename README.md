@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hi, I'm Guilherme Brandao!</h1>
+<h1 align="left"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35">Hello, I'm Guilherme Brandao!</h1>
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="gif code"/>
