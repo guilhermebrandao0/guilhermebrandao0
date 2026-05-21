@@ -11,12 +11,13 @@
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35" /> Turning coffee into functional code.</h3>
 
+<br>
 
-<h4 align="left">&#127757;  I live in Brazil.</h4>
+<h3 align="left">&#127757;  I live in Brazil.</h3>
 
-<h4 align="left">&#128233; Contact me @: <a href="mailto:brandao.dev0@gmail.com" target="_blank">brandao.dev0@gmail.com</h4>
+<h3 align="left">&#128233; Contact me @: <a href="mailto:brandao.dev0@gmail.com" target="_blank">brandao.dev0@gmail.com</h3>
 
-<h4 align="left">&#128211; Currently studying Java</h4>
+<h3 align="left">&#128211; Currently studying Java</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
