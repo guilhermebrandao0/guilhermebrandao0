@@ -43,7 +43,9 @@
   <a href="https://discord.gg/HrYWm3Trp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="55" alt="discord logo" />
   </a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 </div>
+
 
 <h2 align="left">&#x1F4BB; technical skills</h2>
 
