@@ -49,7 +49,10 @@
 
 <h2 align="left">&#x1F4BB; technical skills</h2>
 
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 
 ###
 
