@@ -24,7 +24,7 @@
 <h2 align="left">🌐Social media | Contact me</h2>
 
 <div align="leftr">
-  <a href="https://www.instagram.com/brndx.15/" target="_blank">
+  <a href="https://www.instagram.com/Dev.brandao0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="55" alt="instagram logo" />
   </a>
 
