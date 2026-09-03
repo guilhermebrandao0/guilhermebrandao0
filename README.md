@@ -17,7 +17,7 @@
 
 <h3 align="left">&#128233; Contact me @: <a href="mailto:brandao.dev0@gmail.com" target="_blank">brandao.dev0@gmail.com</h3>
 
-<h3 align="left">&#x1f4de; Contact phone number: <a href="https://bit.ly/46FsxCA" target="_blank">+55 21 98041-1553>
+<h3 align="left">&#x1f4de; Contact phone number: <a href="https://bit.ly/46FsxCA" target="_blank">+55 21 98041-1553</h3>
 
 <h3 align="left">&#128211; Currently studying Java</h3>
 
