@@ -19,7 +19,7 @@
 
 <h3 align="left">&#x1f4de; Contact phone number: <a href="https://bit.ly/BrandaoLabs" target="_blank">+55 21 98041-1553</h3>
 
-<h3 align="left">&#128211; Currently studying Java</h3>
+<h3 align="left">&#128211; Currently studying JavaScript</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
